@@ -7,16 +7,16 @@ https://discordapp.com/invite/FwA7dsc
 
 # Programming Languages
  - ## C# 
-  - [**Videos**](http://bit.ly/CsharpCAT)
-  - [**Brackeys**](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
+     - [**Videos**](http://bit.ly/CsharpCAT)
+     - [**Brackeys**](https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51)
         
-  - [**Articles**](http://bit.ly/CsharpTutorialsCAT)
+      - [**Articles**](http://bit.ly/CsharpTutorialsCAT)
         
-  - [**C# Survival Guide**](https://learn.unity.com/course/unity-c-survival-guide)
+      - [**C# Survival Guide**](https://learn.unity.com/course/unity-c-survival-guide)
         
  - ## C++ 
-  -  [Learn CPP](https://www.learncpp.com)
-  -  [Fluent CPP](https://www.fluentcpp.com/dailycpp/)
+     -  [Learn CPP](https://www.learncpp.com)
+     -  [Fluent CPP](https://www.fluentcpp.com/dailycpp/)
 
 
 # Engines
@@ -57,7 +57,7 @@ https://discordapp.com/invite/FwA7dsc
 
 # Game Jams 
     - **Participating In Game Jams after getting the basics is important**
-    - https://itch.io/jams
+    - [Itch Jams](https://itch.io/jams)
 
 # Modelling 
  - ## Blender 
@@ -135,7 +135,7 @@ https://discordapp.com/invite/FwA7dsc
      - [www.creativecrash.com](http://www.creativecrash.com)
      - [sketchfab.com](http://sketchfab.com)
      - [opengameart.org](http://opengameart.org)
- - Digital Sound and Music
+ - ## Digital Sound and Music
      - [www.freesound.org](http://www.freesound.org)
      - [www.newgrounds.com](http://www.newgrounds.com)
      - [incompetech.com](http://incompetech.com)
