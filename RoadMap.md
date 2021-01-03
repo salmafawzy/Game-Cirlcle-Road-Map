@@ -56,7 +56,7 @@ https://discordapp.com/invite/FwA7dsc
                  - [UnrealEngine Official Playlists](https://www.youtube.com/user/UnrealDevelopmentKit/search?query=tutorial)
 
 # Game Jams 
-    - **Participating In Game Jams after getting the basics is important**
+    - Participating In Game Jams after getting the basics is important
     - [Itch Jams](https://itch.io/jams)
 
 # Modelling 
