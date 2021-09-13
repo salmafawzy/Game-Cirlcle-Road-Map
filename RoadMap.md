@@ -24,6 +24,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
 	 - ### Courses
          - [Make your first game](http://bit.ly/HTMAVG)
          - [Flappy Bird](https://bit.ly/2Mvuedk)
+         - [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
          - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
          - [Survival Shooter](https://learn.unity.com/project/survival-shooter-tutorial)
          - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
