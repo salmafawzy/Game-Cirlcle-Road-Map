@@ -11,7 +11,8 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
         
       - [**Articles**](http://bit.ly/CsharpTutorialsCAT)
         
-      - [**C# Survival Guide**](https://learn.unity.com/course/unity-c-survival-guide)
+      - [**C# Tutorial for Beginners**]([https://learn.unity.com/course/unity-c-survival-guide](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef))
+      
         
  - ## C++ 
      -  [Learn CPP](https://www.learncpp.com)
