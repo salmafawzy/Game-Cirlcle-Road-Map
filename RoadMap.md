@@ -11,13 +11,21 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
         
       - [**Articles**](http://bit.ly/CsharpTutorialsCAT)
         
-      - [**C# Tutorial for Beginners**]([https://learn.unity.com/course/unity-c-survival-guide](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef))
+      - [**C# for Beginners**](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+      - [**Unity Learn Begginner scripting**](https://learn.unity.com/course/beginner-scripting)
+      - [**Unity Learn intermediate scripting**](https://learn.unity.com/project/intermediate-gameplay-scripting)
       
         
  - ## C++ 
      -  [Learn CPP](https://www.learncpp.com)
      -  [Fluent CPP](https://www.fluentcpp.com/dailycpp/)
 
+ # Books
+  -## Algorithms Books
+     -[grokking-algorithms-illustrated-programmers-curious](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+     -[Introduction-to-Algorithms-Third-Edition](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
+ -## Unity game programming Books
+      -[Unity Game Development Cookbook: Essentials for Every Game]
 
 # Engines
  -  ## Unity 
@@ -32,7 +40,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
          - [Learn Command Line](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
          - [Learn Git and Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
          - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
-         - [Survival Shooter](https://learn.unity.com/project/survival-shooter-tutorial)
+         - [Survival Game](https://learn.unity.com/project/survival-shooter-tutorial](https://www.youtube.com/watch?v=fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk)
          - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
          - [Unity Expert Gameplay Programmer Certification Preparation Specialization](https://www.coursera.org/specializations/unity-gameplay-programmer)
          - [Complete C# Unity Developer 2D](https://www.udemy.com/course/unitycourse/)
@@ -71,12 +79,15 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
 
      - [Download](https://www.blender.org/download/)
      - ### Courses
+     
+         - [بليندر المستوي الاول](https://www.youtube.com/watch?v=cBlXIJAawyg&list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF)
+         -  [بلندر المستوي التاني](https://www.youtube.com/watch?v=wTpSxsl7s_I&list=PL-BTVXXeho5TXgzvHUpjjWT4VLLMVWvVP)
+         -  [بليندر المستوي الثالث](https://www.youtube.com/watch?v=pYAj3XO1gpU&list=PL-BTVXXeho5SkaGIWkWlz2FNs9GDQ1m3w)
+
          - [Blender Fundementals Tutorial Series](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
          - [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLexwJr_iILK7IkuhEeAYeN7aLV5AAXKa-)
          - [Lighting Mastery Course](https://www.youtube.com/watch?v=Ys4793edotw&list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
          - [Low poly character clothing](https://www.youtube.com/watch?v=szEeu6_b4fg&feature=share)
-
-
  - ## Adobe fuse
     
 
