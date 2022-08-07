@@ -22,8 +22,9 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
 
  # Books
   - ## Algorithms Books
-       -[**grokking-algorithms-illustrated-programmers-curious**](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
-       -[**Introduction-to-Algorithms-Third-Edition**](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
+        -[**grokking-algorithms-illustrated-programmers-curious**](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+        -[**Introduction-to-Algorithms-Third-Edition**](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
+       
  - ## Unity game programming Books
       -[Unity Game Development Cookbook: Essentials for Every Game]
 
