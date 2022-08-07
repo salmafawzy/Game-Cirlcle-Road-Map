@@ -21,10 +21,10 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
      -  [Fluent CPP](https://www.fluentcpp.com/dailycpp/)
 
  # Books
-  -## Algorithms Books
-     -[grokking-algorithms-illustrated-programmers-curious](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
-     -[Introduction-to-Algorithms-Third-Edition](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
- -## Unity game programming Books
+  - ## Algorithms Books
+     -[**grokking-algorithms-illustrated-programmers-curious**](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+     -[**Introduction-to-Algorithms-Third-Edition**](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
+ - ## Unity game programming Books
       -[Unity Game Development Cookbook: Essentials for Every Game]
 
 # Engines
@@ -40,7 +40,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
          - [Learn Command Line](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
          - [Learn Git and Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
          - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
-         - [Survival Game](https://learn.unity.com/project/survival-shooter-tutorial](https://www.youtube.com/watch?v=fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk)
+         - [Survival Game](https://www.youtube.com/watch?v=fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk)
          - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
          - [Unity Expert Gameplay Programmer Certification Preparation Specialization](https://www.coursera.org/specializations/unity-gameplay-programmer)
          - [Complete C# Unity Developer 2D](https://www.udemy.com/course/unitycourse/)
