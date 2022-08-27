@@ -41,7 +41,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
          - [Learn Command Line](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
          - [Learn Git and Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
          - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
-         - [RPG in Unity](https://www.youtube.com/watch?v=nu5nyrB9U_o](https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
+         - [RPG in Unity](https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
          - [Multi player FPS](https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ)
          - [Survival Game](https://www.youtube.com/watch?v=fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk)
          - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
