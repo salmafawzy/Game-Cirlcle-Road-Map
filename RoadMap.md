@@ -31,25 +31,22 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
  -  ## Unity 
      - [Download](https://store.unity.com/download)
 	 - ### Courses
-	 - [HOW TO PROGRAM in C#](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR)
 	 - [Unity Essentials pathway](https://learn.unity.com/pathway/unity-essentials)
 	 - [Unity Junior Porgrammer pathway](https://learn.unity.com/pathway/junior-programmer)
-	 - [Make a Game Basics](https://www.youtube.com/watch?v=g5QFW12utdU&list=PLPV2KyIb3jR4u6zeBY77WPj0KuFdmv84g)
-	 - [Make a 2D Game in Uinty](https://www.youtube.com/watch?v=9h-z0AyG42k&list=PLPV2KyIb3jR4_IYZY2V0G3IUYcx1zZkJe)
-	 - [Flappy Bird](https://bit.ly/2Mvuedk)
-         - [Make your first game](http://bit.ly/HTMAVG)
-         - [Learn Command Line](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
-         - [Learn Git and Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
-         - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
-         - [RPG in Unity](https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
-         - [Multi player FPS](https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ)
-         - [Survival Game](https://www.youtube.com/watch?v=fRED_-LvJKQ&list=PLPV2KyIb3jR7F_B4p8X3YwHPaExh0R9Kk)
-         - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
+	 - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
          - [Unity Expert Gameplay Programmer Certification Preparation Specialization](https://www.coursera.org/specializations/unity-gameplay-programmer)
          - [Complete C# Unity Developer 2D](https://www.udemy.com/course/unitycourse/)
          - [Complete C# Unity Developer 3D](https://www.udemy.com/course/unitycourse2/)
          - [Unity XR](https://www.coursera.org/specializations/unity-xr)
-
+	 - ### Games Tutorials
+	 - [Make your first game](http://bit.ly/HTMAVG)
+	 - [Flappy Bird](https://bit.ly/2Mvuedk)
+         - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
+         - [RPG in Unity](https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
+         - [Multi player FPS](https://www.youtube.com/watch?v=UK57qdq_lak&list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ)
+         - ### Github
+         - [Learn Command Line](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxzNO8ixW83Sf8FnLy_MkUT)
+         - [Learn Git and Github](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
      - ### Recommended Resources
          - [Documentation](https://docs.unity3d.com/Manual/index.html)
          - [Brackeys](https://www.youtube.com/user/Brackeys/playlists)
@@ -83,9 +80,9 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
      - [Download](https://www.blender.org/download/)
      - ### Courses
      
-         - [بليندر المستوي الاول](https://www.youtube.com/watch?v=cBlXIJAawyg&list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF)
-         -  [بلندر المستوي التاني](https://www.youtube.com/watch?v=wTpSxsl7s_I&list=PL-BTVXXeho5TXgzvHUpjjWT4VLLMVWvVP)
-         -  [بليندر المستوي الثالث](https://www.youtube.com/watch?v=pYAj3XO1gpU&list=PL-BTVXXeho5SkaGIWkWlz2FNs9GDQ1m3w)
+         - [Blender LVL1](https://www.youtube.com/watch?v=cBlXIJAawyg&list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF)
+         - [Blender LVL2](https://www.youtube.com/watch?v=wTpSxsl7s_I&list=PL-BTVXXeho5TXgzvHUpjjWT4VLLMVWvVP)
+         - [Blender LVL3](https://www.youtube.com/watch?v=pYAj3XO1gpU&list=PL-BTVXXeho5SkaGIWkWlz2FNs9GDQ1m3w)
          - [Blender character creation](https://www.youtube.com/watch?v=ocLZNRasU64&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v)
          - [Blender Fundementals Tutorial Series](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
          - [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLexwJr_iILK7IkuhEeAYeN7aLV5AAXKa-)
