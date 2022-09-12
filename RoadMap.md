@@ -40,6 +40,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
        - [Unity XR](https://www.coursera.org/specializations/unity-xr)
      - ### Games Tutorials
        - [Make your first game](http://bit.ly/HTMAVG)
+       - [Mario Clone](https://youtube.com/playlist?list=PLiRrp7UEG13Zsh4-Ir54fFoF7ATm540SL)
        - [Flappy Bird](https://bit.ly/2Mvuedk)
        - [Tower Defence](https://www.youtube.com/playlist?list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0)
        - [RPG in Unity](https://www.youtube.com/watch?v=nu5nyrB9U_o&list=PLPV2KyIb3jR4KLGCCAciWQ5qHudKtYeP7)
