@@ -33,7 +33,7 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
        - [Unity Essentials pathway](https://learn.unity.com/pathway/unity-essentials)
        - [Unity Junior Porgrammer pathway](https://learn.unity.com/pathway/junior-programmer)
        - [C# Programming for Unity](https://www.coursera.org/specializations/programming-unity-game-development) 
-       - [Unity Expert Gameplay Programmer Certification Preparation Specialization](https://www.coursera.org/specializations/unity-gameplay-programmer)
+       - [Data Structures and Design Patterns for Game Developers](https://www.coursera.org/learn/data-structures-design-patterns?)
        - [Complete C# Unity Developer 2D](https://www.udemy.com/course/unitycourse/)
        - [Complete C# Unity Developer 3D](https://www.udemy.com/course/unitycourse2/)
        - [Unity XR](https://www.coursera.org/specializations/unity-xr)
