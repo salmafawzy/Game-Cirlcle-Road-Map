@@ -83,7 +83,6 @@ I recommend starting by learning C# then Unity to get a good understanding of Ga
          - [Blender LVL1](https://www.youtube.com/watch?v=cBlXIJAawyg&list=PL-BTVXXeho5SFUrYlj_nL8rHjOdmt_uLF)
          - [Blender LVL2](https://www.youtube.com/watch?v=wTpSxsl7s_I&list=PL-BTVXXeho5TXgzvHUpjjWT4VLLMVWvVP)
          - [Blender LVL3](https://www.youtube.com/watch?v=pYAj3XO1gpU&list=PL-BTVXXeho5SkaGIWkWlz2FNs9GDQ1m3w)
-         - [Blender character creation](https://www.youtube.com/watch?v=ocLZNRasU64&list=PLFt_AvWsXl0djuNM22htmz3BUtHHtOh7v)
          - [Blender Fundementals Tutorial Series](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
          - [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=TPrnSACiTJ4&list=PLexwJr_iILK7IkuhEeAYeN7aLV5AAXKa-)
          - [Lighting Mastery Course](https://www.youtube.com/watch?v=Ys4793edotw&list=PLjEaoINr3zgH9vCr47kSS5W8PEJBNIiwK)
